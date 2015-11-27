@@ -1,0 +1,7 @@
+Functional Programming
+
+Working through exercises found here:
+
+http://reactivex.io/learnrx/
+
+Done through exercise 23.
